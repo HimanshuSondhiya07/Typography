@@ -1,0 +1,15 @@
+.data{
+    width: 30%;
+    margin: auto;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+p{
+    color: #00000099;
+}
+hr{
+    border: 2px solid rgb(87, 86, 86);
+}
